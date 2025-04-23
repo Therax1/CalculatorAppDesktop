@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\DesktopApp\\Calculatrice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C672A74-7D58-49F8-A34F-375AD0743E9D}|Calculatrice\\Calculatrice.csproj|c:\\users\\hp\\desktop\\desktopapp\\calculatrice\\calculatrice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C672A74-7D58-49F8-A34F-375AD0743E9D}|Calculatrice\\Calculatrice.csproj|solutionrelative:calculatrice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C672A74-7D58-49F8-A34F-375AD0743E9D}|Calculatrice\\Calculatrice.csproj|c:\\users\\hp\\desktop\\desktopapp\\calculatrice\\calculatrice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C672A74-7D58-49F8-A34F-375AD0743E9D}|Calculatrice\\Calculatrice.csproj|solutionrelative:calculatrice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\DesktopApp\\Calculatrice\\Calculatrice\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Calculatrice\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\DesktopApp\\Calculatrice\\Calculatrice\\MainWindow.xaml",
+              "RelativeToolTip": "Calculatrice\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T11:24:59.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\DesktopApp\\Calculatrice\\Calculatrice\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Calculatrice\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\DesktopApp\\Calculatrice\\Calculatrice\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Calculatrice\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\DesktopApp\\Calculatrice\\Calculatrice\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Calculatrice\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAzwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T11:24:55.753Z",
               "EditorCaption": ""
